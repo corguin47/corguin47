@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corguin47 (my real name is Gavin, Corguin's just my online alias), a final year student studying Computer Science.
+- 👋 Hi, I’m @corguin47 (my real name is Gavin, Corguin's just my online alias)
 - 👀 I’m interested in actually solving problems by providing a solution, leading and empowering individuals.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any projects that revolve computer science, programming, networking, cloud architecture, cybersecurity, IoT, I enjoy working in all aspects of this.
